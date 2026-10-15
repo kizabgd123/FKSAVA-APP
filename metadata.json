@@ -1,0 +1,6 @@
+{
+  "name": "FK SAVA 45",
+  "description": "Rezervacija terena, balon termini, klupski kafić i škola fudbala u Bloku 45, Novi Beograd",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
